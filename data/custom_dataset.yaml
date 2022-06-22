@@ -1,0 +1,5 @@
+train: custom_dataset/train
+val: custom_dataset/valid
+
+nc: 1
+names: ['olive_fly_fruit']

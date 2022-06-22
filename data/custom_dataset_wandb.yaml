@@ -1,0 +1,5 @@
+names:
+- olive_fly_fruit
+nc: 1
+train: wandb-artifact://olive_fly_fruit_detector\train
+val: wandb-artifact://olive_fly_fruit_detector\val
